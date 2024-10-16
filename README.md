@@ -23,6 +23,9 @@ The project successfully scraped and stored data on the largest U.S. companies b
 2. Install the required libraries:
    ```bash
    pip install requests beautifulsoup4 pandas
-3.Run the script to scrape the data and save it as a CSV file:
+3. Run the script to scrape the data and save it as a CSV file:
   ```bash
   python scrape_companies.py
+
+
+
